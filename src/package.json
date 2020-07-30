@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@uiw/react-markdown-preview": "1.0.8",
+    "antd": "3.x",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-simplemde-editor": "4.1.3"
+  }
+}
